@@ -77,9 +77,9 @@ cd ../../../..
 
 ##### Real-ESRGAN
 ```code
-cd deblur_model-NeRF/Real-ESRGAN
+cd deblur_model-NeRF/Real-ESRGAN/weights
 wget https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-general-x4v3.pth
-cd ../..
+cd ../../..
 ```
 
 
